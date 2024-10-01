@@ -42,9 +42,3 @@ nav.addEventListener('mouseleave',function(){
 }
 
 navAnimation()
-
-Initialisze  tl.to
-
-function navAnimation(){
-    
-}
